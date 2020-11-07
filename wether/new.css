@@ -228,4 +228,11 @@ footer p{
     .tempinfo{
         margin: 9rem 0;
     }
+        .temp_form{
+        width: auto;
+    }
+    .tempinfo{
+        width: auto;
+    }
+
 }
