@@ -47,6 +47,9 @@ body{
 .navbar a:hover{
     color: var(--main-color);
 }
+.navbar-toggler-icon{
+    color:rgb(11, 241, 145);
+}
 .fa-snowflake{
     transition: all linear;
     animation: rot 2s linear infinite ;
